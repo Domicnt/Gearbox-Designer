@@ -15,7 +15,7 @@ int main()
 	std::cout << std::endl;
 	if(str == "y" || str == "Y")
 	{
-		std::cout << "Minimum mismatch: ";
+		std::cout << "Maximum mismatch: ";
 		std::cin >> minMismatch;
 		std::cout << std::endl << "Minimum ratio: ";
 		std::cin >> minRatio;
