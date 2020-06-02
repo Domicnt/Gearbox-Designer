@@ -1,0 +1,220 @@
+Mismatch: 0.0032643
+Ratio: 15.062
+Average Center Distance: 3.03902
+Length: 6.82765
+Width: 3.833
+Teeth: 30
+Links: 46
+Teeth: 27
+Links: 36
+
+Mismatch: 0.00969225
+Ratio: 15.3017
+Average Center Distance: 2.32245
+Length: 6.1183
+Width: 3.837
+Teeth: 42
+Links: 48
+Teeth: 23
+Links: 30
+
+Mismatch: 0.0042138
+Ratio: 15.9263
+Average Center Distance: 2.4866
+Length: 6.03771
+Width: 3.595
+Teeth: 37
+Links: 46
+Teeth: 25
+Links: 32
+
+Mismatch: 0.00330747
+Ratio: 16.2645
+Average Center Distance: 3.76212
+Length: 7.47478
+Width: 3.757
+Teeth: 41
+Links: 58
+Teeth: 24
+Links: 38
+
+Mismatch: 0.00201028
+Ratio: 16.6612
+Average Center Distance: 2.60212
+Length: 6.39412
+Width: 3.837
+Teeth: 42
+Links: 50
+Teeth: 24
+Links: 32
+
+Mismatch: 0.000123496
+Ratio: 16.7872
+Average Center Distance: 3.65454
+Length: 7.2966
+Width: 3.688
+Teeth: 39
+Links: 56
+Teeth: 25
+Links: 38
+
+Mismatch: 0.00491349
+Ratio: 17.2259
+Average Center Distance: 3.54561
+Length: 7.21606
+Width: 3.714
+Teeth: 37
+Links: 54
+Teeth: 26
+Links: 38
+
+Mismatch: 0.00298808
+Ratio: 17.2259
+Average Center Distance: 2.75962
+Length: 6.42912
+Width: 3.714
+Teeth: 37
+Links: 48
+Teeth: 26
+Links: 34
+
+Mismatch: 0.00369882
+Ratio: 17.8512
+Average Center Distance: 2.60497
+Length: 6.63582
+Width: 4.075
+Teeth: 45
+Links: 52
+Teeth: 24
+Links: 32
+
+Mismatch: 0.00132638
+Ratio: 18.0785
+Average Center Distance: 2.87807
+Length: 6.66974
+Width: 3.837
+Teeth: 42
+Links: 52
+Teeth: 25
+Links: 34
+
+Mismatch: 0.0052165
+Ratio: 18.6446
+Average Center Distance: 2.99058
+Length: 7.18119
+Width: 4.234
+Teeth: 47
+Links: 56
+Teeth: 24
+Links: 34
+
+Mismatch: 0.00173483
+Ratio: 18.8981
+Average Center Distance: 2.91818
+Length: 6.82505
+Width: 3.952
+Teeth: 35
+Links: 48
+Teeth: 28
+Links: 36
+
+Mismatch: 0.00545618
+Ratio: 19.5537
+Average Center Distance: 3.15147
+Length: 6.9452
+Width: 3.837
+Teeth: 42
+Links: 54
+Teeth: 26
+Links: 36
+
+Mismatch: 0.0088894
+Ratio: 20.0826
+Average Center Distance: 3.04183
+Length: 6.83328
+Width: 3.833
+Teeth: 40
+Links: 52
+Teeth: 27
+Links: 36
+
+Mismatch: 0.00262791
+Ratio: 20.2307
+Average Center Distance: 3.26687
+Length: 7.45619
+Width: 4.234
+Teeth: 47
+Links: 58
+Teeth: 25
+Links: 36
+
+Mismatch: 0.00198624
+Ratio: 20.4545
+Average Center Distance: 3.07294
+Length: 7.21894
+Width: 4.191
+Teeth: 33
+Links: 48
+Teeth: 30
+Links: 38
+
+Mismatch: 0.000745022
+Ratio: 21.5978
+Average Center Distance: 3.31303
+Length: 7.21941
+Width: 3.952
+Teeth: 40
+Links: 54
+Teeth: 28
+Links: 38
+
+Mismatch: 0.0071152
+Ratio: 22.593
+Average Center Distance: 3.43311
+Length: 7.46567
+Width: 4.075
+Teeth: 45
+Links: 58
+Teeth: 27
+Links: 38
+
+Mismatch: 0.00359258
+Ratio: 24.9056
+Average Center Distance: 2.79163
+Length: 6.81842
+Width: 4.071
+Teeth: 43
+Links: 52
+Teeth: 29
+Links: 36
+
+Mismatch: 0.00453141
+Ratio: 26.6433
+Average Center Distance: 2.79569
+Length: 6.90695
+Width: 4.155
+Teeth: 46
+Links: 54
+Teeth: 29
+Links: 36
+
+Mismatch: 0.00770196
+Ratio: 26.6529
+Average Center Distance: 3.0681
+Length: 7.21695
+Width: 4.191
+Teeth: 43
+Links: 54
+Teeth: 30
+Links: 38
+
+Mismatch: 0.00572768
+Ratio: 28.5124
+Average Center Distance: 3.07482
+Length: 7.22268
+Width: 4.191
+Teeth: 46
+Links: 56
+Teeth: 30
+Links: 38
+
